@@ -1,20 +1,8 @@
 import pandas as pd
 import numpy as np
-# import tensorflow as tf
-# mnist = tf.keras.datasets.mnist
 import tensorflow as tf
 from tensorflow.python.layers.core import Dense
-# from tensorflow.python.layers.core import 
-
-
-
-# import tensorflow as tf
-# from keras import models
-# from models import Sequential
-# from keras import layers
-# from tensorflow.keras.models import Sequential, load_model  # Correct import
 from tensorflow.python.keras import models
-# from tensorflow.keras.layers import LSTM, Dense
 from tensorflow.python.keras import layers
 from sklearn.preprocessing import MinMaxScaler
 import os
