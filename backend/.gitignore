@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore dataset files
+*.csv
+*.xlsx
+
+# Ignore model files
+*.h5
+*.pkl
+
+# Ignore build artifacts and logs
+logs/
+build/
+*.log
